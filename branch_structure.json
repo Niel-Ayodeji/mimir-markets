@@ -1,0 +1,24 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "fix/issue-370-docs-contracts-write-a-module-level-guide-for",
+    "fix/issue-385-fix-ui-use-the-locale-aware-link-in-the-basket",
+    "fix/issue-387-fix-ui-use-the-locale-aware-link-in-the-vs-xmtp",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "fix/issue-370-docs-contracts-write-a-module-level-guide-for": "main",
+    "fix/issue-385-fix-ui-use-the-locale-aware-link-in-the-basket": "main",
+    "fix/issue-387-fix-ui-use-the-locale-aware-link-in-the-vs-xmtp": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "fix/issue-370-docs-contracts-write-a-module-level-guide-for",
+    "fix/issue-385-fix-ui-use-the-locale-aware-link-in-the-basket",
+    "fix/issue-387-fix-ui-use-the-locale-aware-link-in-the-vs-xmtp",
+    "origin"
+  ]
+}
